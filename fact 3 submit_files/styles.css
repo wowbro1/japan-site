@@ -1,0 +1,32 @@
+h1 { 
+color: rgb(253, 94, 72);
+text-align: center;
+
+}
+p {
+    text-align: center; 
+    size: 100000000000px;;
+}
+img {
+display: block;
+width: 80%;
+margin:auto ;
+
+
+}
+ul{
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+    padding-left: 0;
+    width: 50%;
+    margin: auto;
+
+}
+
+ul li{
+
+    border: 3px outset;
+    display: inline-block;
+
+}
